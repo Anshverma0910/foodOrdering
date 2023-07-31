@@ -69,7 +69,7 @@
     justify-content: center;
     align-items: center;
 }
-#home::before{
+/* #home::before{
     /* background: url(../img/nbg1.avif) no-repeat center center/cover; */
     content: "";
     background-size: cover;
@@ -83,7 +83,7 @@
     animation: animate 16s ease-in-out infinite;
     background-position: center;
     background-repeat: no-repeat;
-    transition-duration: 15s;   
+    transition-duration: 15s;    */
 }
 @keyframes animate{
     0%,100%{
