@@ -89,15 +89,15 @@
     0%,100%{
         background-image: url(../img/nbg3.avif);
     }
-/*     25%{
-        background-image: url(../img/nbg3.webp);
-    } */
-    50%{
+    25%{
         background-image: url(../img/nbg5.webp);
     }
-/*     75%{
+    50%{
+        background-image: url(../img/nbg6.webp);
+    }
+    75%{
         background-image: url(../img/nbg8.avif);
-    } */
+    }
 }
 
 
