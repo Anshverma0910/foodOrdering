@@ -87,17 +87,17 @@
 }
 @keyframes animate{
     0%,100%{
-        background-image: url(../img/nbg1.avif);
+        background-image: url(../img/nbg3.avif);
     }
-    25%{
+/*     25%{
+        background-image: url(../img/nbg3.webp);
+    } */
+    50%{
         background-image: url(../img/nbg5.webp);
     }
-    50%{
-        background-image: url(../img/nbg3.webp);
-    }
-    75%{
+/*     75%{
         background-image: url(../img/nbg8.avif);
-    }
+    } */
 }
 
 
